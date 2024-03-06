@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋, I'm Achmad Yoga</h1>
-<h3 align="left">Im Backend Engineer from Alterra Academy! 🎯</h3>
+<h2 align="left">Hi 👋, I'm Yoga</h1>
+<h4 align="left">Im Backend Engineer from Alterra Academy! 🎯 \n As a Junior Backend Engineer, I specialize in building web API using Golang, ensuring scalable and efficient protocols. My skills extend to being proficient in managing projects through frameworks such as Echo and Gorm, as well as having the ability to query databases such as MySQL or PostreSQL.</h4>
 
 
 ## 🌐 Socials:
